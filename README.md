@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with Angular, Vue.js, Node.js
 - 💬 Ask me about HTML/CSS, JavaScript, Bootstrap, React
 - 📫 How to reach me: bit.ly/linkedin-michael-viana
--->
