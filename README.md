@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, React, Java
+- 🌱 I’m currently learning HTML/CSS, JavaScript, React
 - 👯 I’m looking to collaborate on open sources and projects correlated to my skills
-- 💬 Ask me about HTML/CSS, JavaScript, React, Java
+- 💬 Ask me about HTML/CSS, JavaScript, React
 - 📫 How to reach me: bit.ly/linkedin-michael-viana
 
 <div>
