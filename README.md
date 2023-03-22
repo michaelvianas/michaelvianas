@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Git and Github, React, SQL, NodeJS, TypeScript
+- 🌱 I’m currently learning HTML/CSS, JavaScript, Git and Github, React, MongoDB, NodeJS, TypeScript
 - 👯 I’m looking to collaborate on open sources and projects correlated to my skills
 - 💬 Ask me about HTML/CSS, JavaScript, Git and GitHub, React, NodeJS
 - 📫 How to reach me: linkedin.com/in/mi-chael
@@ -19,7 +19,7 @@
   <img height=33 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height=33 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img height=33 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height=33 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height=33 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height=33 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height=33 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
