@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning HTML/CSS, JavaScript, Git and Github, React, MongoDB, NodeJS, TypeScript
 - 👯 I’m looking to collaborate on open sources and projects correlated to my skills
-- 💬 Ask me about HTML/CSS, JavaScript, Git and GitHub, React, NodeJS
+- 💬 Ask me about HTML/CSS, JavaScript, Git and GitHub, React, MongoDB, NodeJS, TypeScript
 - 📫 How to reach me: linkedin.com/in/mi-chael
 
 <div>
