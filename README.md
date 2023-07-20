@@ -7,8 +7,8 @@
 
 <div>
   <a>
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=michaelvianas&count_private=true&show_icons=true&theme=dark" />
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvianas&layout=compact&theme=dark&show_icons=true&langs_count=16" />
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=michaelvianas&count_private=true&show_icons=true&theme=dark" />
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvianas&layout=compact&theme=dark&show_icons=true&langs_count=16" />
   </a>
 </div>
 
@@ -22,8 +22,4 @@
   <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <!--<img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />-->
 </div>
