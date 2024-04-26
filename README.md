@@ -2,7 +2,7 @@
 
 - 🌱 Estou atualmente aprendendo Java.
 - 👯 Busco colaborar em projetos open source correlatos às minhas habilidades.
-- 📫 [Linkedin](linkedin.com/in/mi-chael)
+- 📫 [Linkedin](https://www.linkedin.com/in/mi-chael/)
 
 <div>
   <a>
