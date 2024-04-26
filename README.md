@@ -1,9 +1,8 @@
-### Hi there 👋
+### Olá, sou Michael👋
 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Git and Github, React, MongoDB, NodeJS, TypeScript
-- 👯 I’m looking to collaborate on open sources and projects correlated to my skills
-- 💬 Ask me about HTML/CSS, JavaScript, Git and GitHub, React, MongoDB, NodeJS, TypeScript
-- 📫 How to reach me: linkedin.com/in/mi-chael
+- 🌱 Estou atualmente aprendendo Java.
+- 👯 Busco colaborar em projetos open source correlatos às minhas habilidades.
+- 📫 Linkedin: linkedin.com/in/mi-chael
 
 <div>
   <a>
@@ -13,13 +12,5 @@
 </div>
 
 <div style="display:inline-block"><br>
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
