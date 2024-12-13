@@ -13,5 +13,5 @@
 
 <div style="display:inline-block"><br>
   <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" />
+  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/my-sql/my-sql-original.svg" />
 </div>
