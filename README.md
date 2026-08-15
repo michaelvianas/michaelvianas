@@ -6,5 +6,5 @@
 <div style="display:inline-block"><br>
   <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
+  <img height=30 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
